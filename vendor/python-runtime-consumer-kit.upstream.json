@@ -1,0 +1,12 @@
+{
+  "format_version": 1,
+  "repository": "precsim/python-numpy-fenics",
+  "revision": "6ce211c99a89f67b8f9b965c1b0bf1f05d0fa21c",
+  "tree_sha256": "af0d575da38c03dbfcdd0bd072c60bc81ab785effd06a5db463ac16e37ae68a7",
+  "file_count": 28,
+  "contracts": {
+    "bridge_build": 1,
+    "consumer_runtime_receipt": 1,
+    "reference_package": 1
+  }
+}
