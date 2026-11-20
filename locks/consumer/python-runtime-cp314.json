@@ -4,7 +4,7 @@
   "profiles": {
     "linux-x64": {
       "core": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-linux-x64-cp314-core.tar.gz",
@@ -16,7 +16,7 @@
         }
       },
       "numpy": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-linux-x64-cp314-numpy.tar.gz",
@@ -28,7 +28,7 @@
         }
       },
       "fenics": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "fenics-embed-runtime-v0.1.0-linux-x64-cp314.tar.gz",
@@ -51,7 +51,7 @@
           }
         },
         "overlay": {
-          "release_tag": "runtime-v0.1.0-rc3",
+          "release_tag": "runtime-v0.1.0",
           "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
           "archive": {
             "name": "fenics-embed-runtime-v0.1.0-linux-x64-cp314.tar.gz",
@@ -66,7 +66,7 @@
     },
     "macos-arm64": {
       "core": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-macos-arm64-cp314-core.zip",
@@ -78,7 +78,7 @@
         }
       },
       "numpy": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-macos-arm64-cp314-numpy.zip",
@@ -90,7 +90,7 @@
         }
       },
       "fenics": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "fenics-embed-runtime-v0.1.0-macos-arm64-cp314.zip",
@@ -113,7 +113,7 @@
           }
         },
         "overlay": {
-          "release_tag": "runtime-v0.1.0-rc3",
+          "release_tag": "runtime-v0.1.0",
           "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
           "archive": {
             "name": "fenics-embed-runtime-v0.1.0-macos-arm64-cp314.zip",
@@ -128,7 +128,7 @@
     },
     "macos-x64": {
       "core": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-macos-x64-cp314-core.zip",
@@ -140,7 +140,7 @@
         }
       },
       "numpy": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-macos-x64-cp314-numpy.zip",
@@ -152,7 +152,7 @@
         }
       },
       "fenics": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "fenics-embed-runtime-v0.1.0-macos-x64-cp314.zip",
@@ -175,7 +175,7 @@
           }
         },
         "overlay": {
-          "release_tag": "runtime-v0.1.0-rc3",
+          "release_tag": "runtime-v0.1.0",
           "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
           "archive": {
             "name": "fenics-embed-runtime-v0.1.0-macos-x64-cp314.zip",
@@ -190,7 +190,7 @@
     },
     "win-x64": {
       "core": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-win-x64-cp314-core.zip",
@@ -202,7 +202,7 @@
         }
       },
       "numpy": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "python-runtime-v0.1.0-win-x64-cp314-numpy.zip",
@@ -214,7 +214,7 @@
         }
       },
       "fenics": {
-        "release_tag": "runtime-v0.1.0-rc3",
+        "release_tag": "runtime-v0.1.0",
         "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
         "archive": {
           "name": "fenics-embed-runtime-v0.1.0-win-x64-cp314.zip",
@@ -237,7 +237,7 @@
           }
         },
         "overlay": {
-          "release_tag": "runtime-v0.1.0-rc3",
+          "release_tag": "runtime-v0.1.0",
           "producer_revision": "91423af1a1ae36221440ccc2475c1c88758d6d9f",
           "archive": {
             "name": "fenics-embed-runtime-v0.1.0-win-x64-cp314.zip",

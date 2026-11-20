@@ -24,11 +24,11 @@ and identified by `vendor/python-runtime-consumer-kit.upstream.json`.
 
 The tooling pin and runtime pin are intentionally independent.
 
-- Tooling: producer commit `4be16e955706a5860daee8e29f710f19e4b205ab`,
+- Tooling: producer commit `56ccb0acc08efec7255253fb6ca8e832f9766621`,
   consumer-kit tree SHA-256
-  `2162aeac66486ff31d678a8e241d901d7e6c61eaaa23dca0f7a034471669babf`.
+  `5478398883afb2bf71e0c6f882ca5d95cc2bcc9ef3a786ccabc236804f6e6067`.
 - Runtime: `locks/consumer/python-runtime-cp314.json`, containing the immutable
-  `runtime-v0.1.0-rc3` CPython 3.14.10 core/NumPy inputs and the producer-bound
+  `runtime-v0.1.0` CPython 3.14.10 core/NumPy inputs and the producer-bound
   FEniCS overlay/base identities for all four supported targets.
 
 Changing the vendored kit does not change the runtime receipt, and changing the
