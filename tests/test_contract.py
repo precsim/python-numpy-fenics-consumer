@@ -95,15 +95,15 @@ class ConsumerContractTests(unittest.TestCase):
             self.assertEqual(set(records), PROFILES, target)
             for profile in ("core", "numpy"):
                 record = records[profile]
-                self.assertEqual(record["release_tag"], "runtime-v0.1.0-rc3")
+                self.assertEqual(record["release_tag"], "runtime-v0.1.0")
                 self.assertEqual(
                     record["producer_revision"],
                     "91423af1a1ae36221440ccc2475c1c88758d6d9f",
                 )
             fenics = records["fenics"]
-            self.assertEqual(fenics["release_tag"], "runtime-v0.1.0-rc3")
+            self.assertEqual(fenics["release_tag"], "runtime-v0.1.0")
             self.assertEqual(fenics["base"]["release_tag"], "runtime-v0.1.0-rc1")
-            self.assertEqual(fenics["overlay"]["release_tag"], "runtime-v0.1.0-rc3")
+            self.assertEqual(fenics["overlay"]["release_tag"], "runtime-v0.1.0")
 
     def test_scalar_backend_probe_is_deterministic_without_runtime_imports(self) -> None:
         backend = load_module("consumer_mock_backend", ROOT / "python" / "mock_backend.py")
