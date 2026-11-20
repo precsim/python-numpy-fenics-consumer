@@ -1,8 +1,8 @@
 {
   "format_version": 1,
   "repository": "precsim/python-numpy-fenics",
-  "revision": "6ce211c99a89f67b8f9b965c1b0bf1f05d0fa21c",
-  "tree_sha256": "af0d575da38c03dbfcdd0bd072c60bc81ab785effd06a5db463ac16e37ae68a7",
+  "revision": "4be16e955706a5860daee8e29f710f19e4b205ab",
+  "tree_sha256": "2162aeac66486ff31d678a8e241d901d7e6c61eaaa23dca0f7a034471669babf",
   "file_count": 28,
   "contracts": {
     "bridge_build": 1,
