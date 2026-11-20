@@ -2,7 +2,7 @@
   "format_version": 1,
   "repository": "precsim/python-numpy-fenics",
   "revision": "4be16e955706a5860daee8e29f710f19e4b205ab",
-  "tree_sha256": "9a6eeaa80cce26a401476e0ef1810f45f4ad79a894b5c474fd379d26a25aa767",
+  "tree_sha256": "2162aeac66486ff31d678a8e241d901d7e6c61eaaa23dca0f7a034471669babf",
   "file_count": 28,
   "contracts": {
     "bridge_build": 1,

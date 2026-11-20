@@ -26,7 +26,7 @@ The tooling pin and runtime pin are intentionally independent.
 
 - Tooling: producer commit `4be16e955706a5860daee8e29f710f19e4b205ab`,
   consumer-kit tree SHA-256
-  `9a6eeaa80cce26a401476e0ef1810f45f4ad79a894b5c474fd379d26a25aa767`.
+  `2162aeac66486ff31d678a8e241d901d7e6c61eaaa23dca0f7a034471669babf`.
 - Runtime: `locks/consumer/python-runtime-cp314.json`, containing the immutable
   `runtime-v0.1.0-rc3` CPython 3.14.10 core/NumPy inputs and the producer-bound
   FEniCS overlay/base identities for all four supported targets.
